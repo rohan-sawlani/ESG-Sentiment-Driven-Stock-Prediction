@@ -1,0 +1,492 @@
+Word,Topic,Category,Subcategory,Stemmed_Words
+clean,Environmental,-,-,clean
+environmental,Environmental,-,-,environment
+epa,Environmental,-,-,epa
+sustainability,Environmental,-,-,sustain
+climate,Environmental,Climate Change,-,climat
+warming,Environmental,Climate Change,-,warm
+biofuel,Environmental,Climate Change,Biofuels,biofuel
+biofuels,Environmental,Climate Change,Biofuels,biofuel
+green,Environmental,Climate Change,Climate change strategy,green
+renewable,Environmental,Climate Change,Climate change strategy,renew
+solar,Environmental,Climate Change,Climate change strategy,solar
+stewardship,Environmental,Climate Change,Climate change strategy,stewardship
+wind,Environmental,Climate Change,Climate change strategy,wind
+atmosphere,Environmental,Climate Change,Emissions management and reporting,atmospher
+emission,Environmental,Climate Change,Emissions management and reporting,emiss
+emissions,Environmental,Climate Change,Emissions management and reporting,emiss
+emit,Environmental,Climate Change,Emissions management and reporting,emit
+ghg,Environmental,Climate Change,Emissions management and reporting,ghg
+ghgs,Environmental,Climate Change,Emissions management and reporting,ghg
+greenhouse,Environmental,Climate Change,Emissions management and reporting,greenhous
+agriculture,Environmental,Ecosystem Service,-,agricultur
+deforestation,Environmental,Ecosystem Service,-,deforest
+pesticide,Environmental,Ecosystem Service,-,pesticid
+pesticides,Environmental,Ecosystem Service,-,pesticid
+wetlands,Environmental,Ecosystem Service,-,wetland
+zoning,Environmental,Ecosystem Service,Access to land,zone
+biodiversity,Environmental,Ecosystem Service,Biodiversity management,biodivers
+species,Environmental,Ecosystem Service,Biodiversity management,speci
+wilderness,Environmental,Ecosystem Service,Biodiversity management,wilder
+wildlife,Environmental,Ecosystem Service,Biodiversity management,wildlif
+freshwater,Environmental,Ecosystem Service,Water,freshwat
+groundwater,Environmental,Ecosystem Service,Water,groundwat
+water,Environmental,Ecosystem Service,Water,water
+cleaner,Environmental,Environmental Management,-,cleaner
+cleanup,Environmental,Environmental Management,-,cleanup
+coal,Environmental,Environmental Management,-,coal
+contamination,Environmental,Environmental Management,-,contamin
+fossil,Environmental,Environmental Management,-,fossil
+resource,Environmental,Environmental Management,-,resourc
+air,Environmental,Environmental Management,Pollution control,air
+carbon,Environmental,Environmental Management,Pollution control,carbon
+nitrogen,Environmental,Environmental Management,Pollution control,nitrogen
+pollution,Environmental,Environmental Management,Pollution control,pollut
+superfund,Environmental,Environmental Management,Pollution control,superfund
+biphenyls,Environmental,Environmental Management,Waste and recycling,biphenyl
+hazardous,Environmental,Environmental Management,Waste and recycling,hazard
+householding,Environmental,Environmental Management,Waste and recycling,household
+pollutants,Environmental,Environmental Management,Waste and recycling,pollut
+printing,Environmental,Environmental Management,Waste and recycling,print
+recycle,Environmental,Environmental Management,Waste and recycling,recycl
+recycling,Environmental,Environmental Management,Waste and recycling,recycl
+toxic,Environmental,Environmental Management,Waste and recycling,toxic
+waste,Environmental,Environmental Management,Waste and recycling,wast
+wastes,Environmental,Environmental Management,Waste and recycling,wast
+weee,Environmental,Environmental Management,Waste and recycling,weee
+climate change,Environmental (Additon LMO 2022),-,-,climate chang
+conservation,Environmental (Additon LMO 2022),-,-,conserv
+environmentally,Environmental (Additon LMO 2022),-,-,environment
+footprint,Environmental (Additon LMO 2022),-,-,footprint
+global warming,Environmental (Additon LMO 2022),-,-,global warm
+pollutant,Environmental (Additon LMO 2022),-,-,pollut
+recycled,Environmental (Additon LMO 2022),-,-,recycl
+sustainable,Environmental (Additon LMO 2022),-,-,sustain
+sustainably,Environmental (Additon LMO 2022),-,-,sustain
+align,Governance,-,-,align
+aligned,Governance,-,-,align
+aligning,Governance,-,-,align
+alignment,Governance,-,-,align
+aligns,Governance,-,-,align
+bylaw,Governance,-,-,bylaw
+bylaws,Governance,-,-,bylaw
+charter,Governance,-,-,charter
+charters,Governance,-,-,charter
+culture,Governance,-,-,cultur
+death,Governance,-,-,death
+duly,Governance,-,-,duli
+independent,Governance,-,-,independ
+parents,Governance,-,-,parent
+cobc,Governance,Business Ethics,-,cobc
+ethic,Governance,Business Ethics,-,ethic
+ethical,Governance,Business Ethics,-,ethic
+ethically,Governance,Business Ethics,-,ethic
+ethics,Governance,Business Ethics,-,ethic
+honesty,Governance,Business Ethics,-,honesti
+bribery,Governance,Business Ethics,Bribery and Corruption,briberi
+corrupt,Governance,Business Ethics,Bribery and Corruption,corrupt
+corruption,Governance,Business Ethics,Bribery and Corruption,corrupt
+crimes,Governance,Business Ethics,Bribery and Corruption,crime
+embezzlement,Governance,Business Ethics,Bribery and Corruption,embezzl
+grassroots,Governance,Business Ethics,Political influence,grassroot
+influence,Governance,Business Ethics,Political influence,influenc
+influences,Governance,Business Ethics,Political influence,influenc
+influencing,Governance,Business Ethics,Political influence,influenc
+lobbied,Governance,Business Ethics,Political influence,lobbi
+lobbies,Governance,Business Ethics,Political influence,lobbi
+lobby,Governance,Business Ethics,Political influence,lobbi
+lobbying,Governance,Business Ethics,Political influence,lobbi
+lobbyist,Governance,Business Ethics,Political influence,lobbyist
+lobbyists,Governance,Business Ethics,Political influence,lobbyist
+whistleblower,Governance,Business Ethics,Whistle-blowing system,whistleblow
+compliance,Governance,Corporate Governance,-,complianc
+conduct,Governance,Corporate Governance,-,conduct
+conformity,Governance,Corporate Governance,-,conform
+governance,Governance,Corporate Governance,-,govern
+misconduct,Governance,Corporate Governance,-,misconduct
+parachute,Governance,Corporate Governance,-,parachut
+parachutes,Governance,Corporate Governance,-,parachut
+perquisites,Governance,Corporate Governance,-,perquisit
+plane,Governance,Corporate Governance,-,plane
+planes,Governance,Corporate Governance,-,plane
+poison,Governance,Corporate Governance,-,poison
+retirement,Governance,Corporate Governance,-,retir
+approval,Governance,Corporate Governance,Audit and control,approv
+approvals,Governance,Corporate Governance,Audit and control,approv
+approve,Governance,Corporate Governance,Audit and control,approv
+approved,Governance,Corporate Governance,Audit and control,approv
+approves,Governance,Corporate Governance,Audit and control,approv
+approving,Governance,Corporate Governance,Audit and control,approv
+assess,Governance,Corporate Governance,Audit and control,assess
+assessed,Governance,Corporate Governance,Audit and control,assess
+assesses,Governance,Corporate Governance,Audit and control,assess
+assessing,Governance,Corporate Governance,Audit and control,assess
+assessment,Governance,Corporate Governance,Audit and control,assess
+assessments,Governance,Corporate Governance,Audit and control,assess
+audit,Governance,Corporate Governance,Audit and control,audit
+audited,Governance,Corporate Governance,Audit and control,audit
+auditing,Governance,Corporate Governance,Audit and control,audit
+auditor,Governance,Corporate Governance,Audit and control,auditor
+auditors,Governance,Corporate Governance,Audit and control,auditor
+audits,Governance,Corporate Governance,Audit and control,audit
+control,Governance,Corporate Governance,Audit and control,control
+controls,Governance,Corporate Governance,Audit and control,control
+coso,Governance,Corporate Governance,Audit and control,coso
+detect,Governance,Corporate Governance,Audit and control,detect
+detected,Governance,Corporate Governance,Audit and control,detect
+detecting,Governance,Corporate Governance,Audit and control,detect
+detection,Governance,Corporate Governance,Audit and control,detect
+evaluate,Governance,Corporate Governance,Audit and control,evalu
+evaluated,Governance,Corporate Governance,Audit and control,evalu
+evaluates,Governance,Corporate Governance,Audit and control,evalu
+evaluating,Governance,Corporate Governance,Audit and control,evalu
+evaluation,Governance,Corporate Governance,Audit and control,evalu
+evaluations,Governance,Corporate Governance,Audit and control,evalu
+examination,Governance,Corporate Governance,Audit and control,examin
+examinations,Governance,Corporate Governance,Audit and control,examin
+examine,Governance,Corporate Governance,Audit and control,examin
+examined,Governance,Corporate Governance,Audit and control,examin
+examines,Governance,Corporate Governance,Audit and control,examin
+examining,Governance,Corporate Governance,Audit and control,examin
+irs,Governance,Corporate Governance,Audit and control,ir
+oversee,Governance,Corporate Governance,Audit and control,overse
+overseeing,Governance,Corporate Governance,Audit and control,overse
+oversees,Governance,Corporate Governance,Audit and control,overse
+oversight,Governance,Corporate Governance,Audit and control,oversight
+review,Governance,Corporate Governance,Audit and control,review
+reviewed,Governance,Corporate Governance,Audit and control,review
+reviewing,Governance,Corporate Governance,Audit and control,review
+reviews,Governance,Corporate Governance,Audit and control,review
+rotation,Governance,Corporate Governance,Audit and control,rotat
+test,Governance,Corporate Governance,Audit and control,test
+tested,Governance,Corporate Governance,Audit and control,test
+testing,Governance,Corporate Governance,Audit and control,test
+tests,Governance,Corporate Governance,Audit and control,test
+treadway,Governance,Corporate Governance,Audit and control,treadway
+backgrounds,Governance,Corporate Governance,Board Structure,background
+independence,Governance,Corporate Governance,Board Structure,independ
+leadership,Governance,Corporate Governance,Board Structure,leadership
+nomination,Governance,Corporate Governance,Board Structure,nomin
+nominations,Governance,Corporate Governance,Board Structure,nomin
+nominee,Governance,Corporate Governance,Board Structure,nomine
+nominees,Governance,Corporate Governance,Board Structure,nomine
+perspectives,Governance,Corporate Governance,Board Structure,perspect
+qualifications,Governance,Corporate Governance,Board Structure,qualif
+refreshment,Governance,Corporate Governance,Board Structure,refresh
+skill,Governance,Corporate Governance,Board Structure,skill
+skills,Governance,Corporate Governance,Board Structure,skill
+succession,Governance,Corporate Governance,Board Structure,success
+tenure,Governance,Corporate Governance,Board Structure,tenur
+vacancies,Governance,Corporate Governance,Board Structure,vacanc
+vacancy,Governance,Corporate Governance,Board Structure,vacanc
+appreciation,Governance,Corporate Governance,Remuneration,appreci
+award,Governance,Corporate Governance,Remuneration,award
+awarded,Governance,Corporate Governance,Remuneration,award
+awarding,Governance,Corporate Governance,Remuneration,award
+awards,Governance,Corporate Governance,Remuneration,award
+bonus,Governance,Corporate Governance,Remuneration,bonu
+bonuses,Governance,Corporate Governance,Remuneration,bonus
+cd,Governance,Corporate Governance,Remuneration,cd
+compensate,Governance,Corporate Governance,Remuneration,compens
+compensated,Governance,Corporate Governance,Remuneration,compens
+compensates,Governance,Corporate Governance,Remuneration,compens
+compensating,Governance,Corporate Governance,Remuneration,compens
+compensation,Governance,Corporate Governance,Remuneration,compens
+eip,Governance,Corporate Governance,Remuneration,eip
+iso,Governance,Corporate Governance,Remuneration,iso
+isos,Governance,Corporate Governance,Remuneration,iso
+payout,Governance,Corporate Governance,Remuneration,payout
+payouts,Governance,Corporate Governance,Remuneration,payout
+pension,Governance,Corporate Governance,Remuneration,pension
+prsu,Governance,Corporate Governance,Remuneration,prsu
+prsus,Governance,Corporate Governance,Remuneration,prsu
+recoupment,Governance,Corporate Governance,Remuneration,recoup
+remuneration,Governance,Corporate Governance,Remuneration,remuner
+reward,Governance,Corporate Governance,Remuneration,reward
+rewarding,Governance,Corporate Governance,Remuneration,reward
+rewards,Governance,Corporate Governance,Remuneration,reward
+rsu,Governance,Corporate Governance,Remuneration,rsu
+rsus,Governance,Corporate Governance,Remuneration,rsu
+salaries,Governance,Corporate Governance,Remuneration,salari
+salary,Governance,Corporate Governance,Remuneration,salari
+severance,Governance,Corporate Governance,Remuneration,sever
+vest,Governance,Corporate Governance,Remuneration,vest
+vested,Governance,Corporate Governance,Remuneration,vest
+vesting,Governance,Corporate Governance,Remuneration,vest
+vests,Governance,Corporate Governance,Remuneration,vest
+ballot,Governance,Corporate Governance,Shareholder rights,ballot
+ballots,Governance,Corporate Governance,Shareholder rights,ballot
+cast,Governance,Corporate Governance,Shareholder rights,cast
+consent,Governance,Corporate Governance,Shareholder rights,consent
+elect,Governance,Corporate Governance,Shareholder rights,elect
+elected,Governance,Corporate Governance,Shareholder rights,elect
+electing,Governance,Corporate Governance,Shareholder rights,elect
+election,Governance,Corporate Governance,Shareholder rights,elect
+elections,Governance,Corporate Governance,Shareholder rights,elect
+elects,Governance,Corporate Governance,Shareholder rights,elect
+nominate,Governance,Corporate Governance,Shareholder rights,nomin
+nominated,Governance,Corporate Governance,Shareholder rights,nomin
+plurality,Governance,Corporate Governance,Shareholder rights,plural
+proponent,Governance,Corporate Governance,Shareholder rights,propon
+proponents,Governance,Corporate Governance,Shareholder rights,propon
+proposal,Governance,Corporate Governance,Shareholder rights,propos
+proposals,Governance,Corporate Governance,Shareholder rights,propos
+proxies,Governance,Corporate Governance,Shareholder rights,proxi
+quorum,Governance,Corporate Governance,Shareholder rights,quorum
+vote,Governance,Corporate Governance,Shareholder rights,vote
+voted,Governance,Corporate Governance,Shareholder rights,vote
+votes,Governance,Corporate Governance,Shareholder rights,vote
+voting,Governance,Corporate Governance,Shareholder rights,vote
+attract,Governance,Corporate Governance,Talent,attract
+attracting,Governance,Corporate Governance,Talent,attract
+attracts,Governance,Corporate Governance,Talent,attract
+incentive,Governance,Corporate Governance,Talent,incent
+incentives,Governance,Corporate Governance,Talent,incent
+interview,Governance,Corporate Governance,Talent,interview
+interviews,Governance,Corporate Governance,Talent,interview
+motivate,Governance,Corporate Governance,Talent,motiv
+motivated,Governance,Corporate Governance,Talent,motiv
+motivates,Governance,Corporate Governance,Talent,motiv
+motivating,Governance,Corporate Governance,Talent,motiv
+motivation,Governance,Corporate Governance,Talent,motiv
+recruit,Governance,Corporate Governance,Talent,recruit
+recruiting,Governance,Corporate Governance,Talent,recruit
+recruitment,Governance,Corporate Governance,Talent,recruit
+retain,Governance,Corporate Governance,Talent,retain
+retainer,Governance,Corporate Governance,Talent,retain
+retainers,Governance,Corporate Governance,Talent,retain
+retaining,Governance,Corporate Governance,Talent,retain
+retention,Governance,Corporate Governance,Talent,retent
+talent,Governance,Corporate Governance,Talent,talent
+talented,Governance,Corporate Governance,Talent,talent
+talents,Governance,Corporate Governance,Talent,talent
+brother,Governance,Corporate Governance,Transparency,brother
+clicking,Governance,Corporate Governance,Transparency,click
+conflict,Governance,Corporate Governance,Transparency,conflict
+conflicts,Governance,Corporate Governance,Transparency,conflict
+family,Governance,Corporate Governance,Transparency,famili
+grandchildren,Governance,Corporate Governance,Transparency,grandchildren
+grandparent,Governance,Corporate Governance,Transparency,grandpar
+grandparents,Governance,Corporate Governance,Transparency,grandpar
+inform,Governance,Corporate Governance,Transparency,inform
+insider,Governance,Corporate Governance,Transparency,insid
+insiders,Governance,Corporate Governance,Transparency,insid
+inspector,Governance,Corporate Governance,Transparency,inspector
+inspectors,Governance,Corporate Governance,Transparency,inspector
+interlocks,Governance,Corporate Governance,Transparency,interlock
+nephews,Governance,Corporate Governance,Transparency,nephew
+nieces,Governance,Corporate Governance,Transparency,niec
+posting,Governance,Corporate Governance,Transparency,post
+relatives,Governance,Corporate Governance,Transparency,rel
+siblings,Governance,Corporate Governance,Transparency,sibl
+sister,Governance,Corporate Governance,Transparency,sister
+son,Governance,Corporate Governance,Transparency,son
+spousal,Governance,Corporate Governance,Transparency,spousal
+spouse,Governance,Corporate Governance,Transparency,spous
+spouses,Governance,Corporate Governance,Transparency,spous
+stepchildren,Governance,Corporate Governance,Transparency,stepchildren
+stepparents,Governance,Corporate Governance,Transparency,steppar
+transparency,Governance,Corporate Governance,Transparency,transpar
+transparent,Governance,Corporate Governance,Transparency,transpar
+visit,Governance,Corporate Governance,Transparency,visit
+visiting,Governance,Corporate Governance,Transparency,visit
+visits,Governance,Corporate Governance,Transparency,visit
+webpage,Governance,Corporate Governance,Transparency,webpag
+website,Governance,Corporate Governance,Transparency,websit
+announce,Governance,Sustainability Management and Reporting,-,announc
+announced,Governance,Sustainability Management and Reporting,-,announc
+announcement,Governance,Sustainability Management and Reporting,-,announc
+announcements,Governance,Sustainability Management and Reporting,-,announc
+announces,Governance,Sustainability Management and Reporting,-,announc
+announcing,Governance,Sustainability Management and Reporting,-,announc
+communicate,Governance,Sustainability Management and Reporting,-,commun
+communicated,Governance,Sustainability Management and Reporting,-,commun
+communicates,Governance,Sustainability Management and Reporting,-,commun
+communicating,Governance,Sustainability Management and Reporting,-,commun
+erm,Governance,Sustainability Management and Reporting,-,erm
+fairly,Governance,Sustainability Management and Reporting,-,fairli
+integrity,Governance,Sustainability Management and Reporting,-,integr
+liaison,Governance,Sustainability Management and Reporting,-,liaison
+presentation,Governance,Sustainability Management and Reporting,-,present
+presentations,Governance,Sustainability Management and Reporting,-,present
+sustainable,Governance,Sustainability Management and Reporting,-,sustain
+asc,Governance,Sustainability Management and Reporting,Disclosure and reporting,asc
+disclose,Governance,Sustainability Management and Reporting,Disclosure and reporting,disclos
+disclosed,Governance,Sustainability Management and Reporting,Disclosure and reporting,disclos
+discloses,Governance,Sustainability Management and Reporting,Disclosure and reporting,disclos
+disclosing,Governance,Sustainability Management and Reporting,Disclosure and reporting,disclos
+disclosure,Governance,Sustainability Management and Reporting,Disclosure and reporting,disclosur
+disclosures,Governance,Sustainability Management and Reporting,Disclosure and reporting,disclosur
+fasb,Governance,Sustainability Management and Reporting,Disclosure and reporting,fasb
+gaap,Governance,Sustainability Management and Reporting,Disclosure and reporting,gaap
+objectivity,Governance,Sustainability Management and Reporting,Disclosure and reporting,object
+press,Governance,Sustainability Management and Reporting,Disclosure and reporting,press
+sarbanes,Governance,Sustainability Management and Reporting,Disclosure and reporting,sarban
+engagement,Governance,Sustainability Management and Reporting,Stakeholder engagement,engag
+engagements,Governance,Sustainability Management and Reporting,Stakeholder engagement,engag
+feedback,Governance,Sustainability Management and Reporting,Stakeholder engagement,feedback
+hotline,Governance,Sustainability Management and Reporting,Stakeholder engagement,hotlin
+investor,Governance,Sustainability Management and Reporting,Stakeholder engagement,investor
+invite,Governance,Sustainability Management and Reporting,Stakeholder engagement,invit
+invited,Governance,Sustainability Management and Reporting,Stakeholder engagement,invit
+mail,Governance,Sustainability Management and Reporting,Stakeholder engagement,mail
+mailed,Governance,Sustainability Management and Reporting,Stakeholder engagement,mail
+mailing,Governance,Sustainability Management and Reporting,Stakeholder engagement,mail
+mailings,Governance,Sustainability Management and Reporting,Stakeholder engagement,mail
+notice,Governance,Sustainability Management and Reporting,Stakeholder engagement,notic
+relations,Governance,Sustainability Management and Reporting,Stakeholder engagement,relat
+stakeholder,Governance,Sustainability Management and Reporting,Stakeholder engagement,stakehold
+stakeholders,Governance,Sustainability Management and Reporting,Stakeholder engagement,stakehold
+compact,Governance,Sustainability Management and Reporting,UNGC compliance,compact
+ungc,Governance,Sustainability Management and Reporting,UNGC compliance,ungc
+citizen,Social,-,-,citizen
+citizens,Social,-,-,citizen
+csr,Social,-,-,csr
+disabilities,Social,-,-,disabl
+disability,Social,-,-,disabl
+disabled,Social,-,-,disabl
+human,Social,-,-,human
+nations,Social,-,-,nation
+social,Social,-,-,social
+un,Social,-,-,un
+veteran,Social,-,-,veteran
+veterans,Social,-,-,veteran
+vulnerable,Social,-,-,vulner
+dignity,Social,Human Rights,-,digniti
+discriminate,Social,Human Rights,-,discrimin
+discriminated,Social,Human Rights,-,discrimin
+discriminating,Social,Human Rights,-,discrimin
+discrimination,Social,Human Rights,-,discrimin
+equality,Social,Human Rights,-,equal
+freedom,Social,Human Rights,-,freedom
+humanity,Social,Human Rights,-,human
+nondiscrimination,Social,Human Rights,-,nondiscrimin
+sexual,Social,Human Rights,-,sexual
+communities,Social,Human Rights,Community relations,commun
+community,Social,Human Rights,Community relations,commun
+expression,Social,Human Rights,Privacy and free expression,express
+marriage,Social,Human Rights,Privacy and free expression,marriag
+privacy,Social,Human Rights,Privacy and free expression,privaci
+peace,Social,Human Rights,Security,peac
+bargaining,Social,Labor Standards,-,bargain
+eeo,Social,Labor Standards,-,eeo
+fairness,Social,Labor Standards,-,fair
+fla,Social,Labor Standards,-,fla
+harassment,Social,Labor Standards,-,harass
+injury,Social,Labor Standards,-,injuri
+labor,Social,Labor Standards,-,labor
+overtime,Social,Labor Standards,-,overtim
+ruggie,Social,Labor Standards,-,ruggi
+sick,Social,Labor Standards,-,sick
+wage,Social,Labor Standards,-,wage
+wages,Social,Labor Standards,-,wage
+workplace,Social,Labor Standards,-,workplac
+bisexual,Social,Labor Standards,Diversity,bisexu
+diversity,Social,Labor Standards,Diversity,divers
+ethnic,Social,Labor Standards,Diversity,ethnic
+ethnically,Social,Labor Standards,Diversity,ethnic
+ethnicities,Social,Labor Standards,Diversity,ethnic
+ethnicity,Social,Labor Standards,Diversity,ethnic
+female,Social,Labor Standards,Diversity,femal
+females,Social,Labor Standards,Diversity,femal
+gay,Social,Labor Standards,Diversity,gay
+gays,Social,Labor Standards,Diversity,gay
+gender,Social,Labor Standards,Diversity,gender
+genders,Social,Labor Standards,Diversity,gender
+homosexual,Social,Labor Standards,Diversity,homosexu
+immigration,Social,Labor Standards,Diversity,immigr
+lesbian,Social,Labor Standards,Diversity,lesbian
+lesbians,Social,Labor Standards,Diversity,lesbian
+lgbt,Social,Labor Standards,Diversity,lgbt
+minorities,Social,Labor Standards,Diversity,minor
+minority,Social,Labor Standards,Diversity,minor
+ms,Social,Labor Standards,Diversity,ms
+race,Social,Labor Standards,Diversity,race
+racial,Social,Labor Standards,Diversity,racial
+religion,Social,Labor Standards,Diversity,religion
+religious,Social,Labor Standards,Diversity,religi
+sex,Social,Labor Standards,Diversity,sex
+transgender,Social,Labor Standards,Diversity,transgend
+woman,Social,Labor Standards,Diversity,woman
+women,Social,Labor Standards,Diversity,women
+occupational,Social,Labor Standards,Health and safety,occup
+safe,Social,Labor Standards,Health and safety,safe
+safely,Social,Labor Standards,Health and safety,safe
+safety,Social,Labor Standards,Health and safety,safeti
+ilo,Social,Labor Standards,ILO core conventions,ilo
+labour,Social,Labor Standards,ILO core conventions,labour
+eicc,Social,Labor Standards,Supply chain labor standards,eicc
+children,Social,Public Health,-,children
+epidemic,Social,Public Health,-,epidem
+health,Social,Public Health,-,health
+healthy,Social,Public Health,-,healthi
+ill,Social,Public Health,-,ill
+illness,Social,Public Health,-,ill
+pandemic,Social,Public Health,-,pandem
+childbirth,Social,Public Health,Access to medicine,childbirth
+drug,Social,Public Health,Access to medicine,drug
+medicaid,Social,Public Health,Access to medicine,medicaid
+medicare,Social,Public Health,Access to medicine,medicar
+medicine,Social,Public Health,Access to medicine,medicin
+medicines,Social,Public Health,Access to medicine,medicin
+hiv,Social,Public Health,HIV and AIDS,hiv
+alcohol,Social,Public Health,Nutrition,alcohol
+drinking,Social,Public Health,Nutrition,drink
+bugs,Social,Public Health,Product safety,bug
+conformance,Social,Public Health,Product safety,conform
+defects,Social,Public Health,Product safety,defect
+fda,Social,Public Health,Product safety,fda
+inspection,Social,Public Health,Product safety,inspect
+inspections,Social,Public Health,Product safety,inspect
+minerals,Social,Public Health,Product safety,miner
+standardization,Social,Public Health,Product safety,standard
+warranty,Social,Public Health,Product safety,warranti
+endowment,Social,Society,-,endow
+endowments,Social,Society,-,endow
+people,Social,Society,-,peopl
+philanthropic,Social,Society,-,philanthrop
+philanthropy,Social,Society,-,philanthropi
+socially,Social,Society,-,social
+societal,Social,Society,-,societ
+society,Social,Society,-,societi
+welfare,Social,Society,-,welfar
+charitable,Social,Society,Charity,charit
+charities,Social,Society,Charity,chariti
+charity,Social,Society,Charity,chariti
+donate,Social,Society,Charity,donat
+donated,Social,Society,Charity,donat
+donates,Social,Society,Charity,donat
+donating,Social,Society,Charity,donat
+donation,Social,Society,Charity,donat
+donations,Social,Society,Charity,donat
+donors,Social,Society,Charity,donor
+foundation,Social,Society,Charity,foundat
+foundations,Social,Society,Charity,foundat
+gift,Social,Society,Charity,gift
+gifts,Social,Society,Charity,gift
+nonprofit,Social,Society,Charity,nonprofit
+poverty,Social,Society,Charity,poverti
+courses,Social,Society,Education,cours
+educate,Social,Society,Education,educ
+educated,Social,Society,Education,educ
+educates,Social,Society,Education,educ
+educating,Social,Society,Education,educ
+education,Social,Society,Education,educ
+educational,Social,Society,Education,educ
+learning,Social,Society,Education,learn
+mentoring,Social,Society,Education,mentor
+scholarships,Social,Society,Education,scholarship
+teach,Social,Society,Education,teach
+teacher,Social,Society,Education,teacher
+teachers,Social,Society,Education,teacher
+teaching,Social,Society,Education,teach
+training,Social,Society,Education,train
+employ,Social,Society,Employment,employ
+employment,Social,Society,Employment,employ
+headcount,Social,Society,Employment,headcount
+hire,Social,Society,Employment,hire
+hired,Social,Society,Employment,hire
+hires,Social,Society,Employment,hire
+hiring,Social,Society,Employment,hire
+staffing,Social,Society,Employment,staf
+unemployment,Social,Society,Employment,unemploy
